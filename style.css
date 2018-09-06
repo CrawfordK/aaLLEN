@@ -1,5 +1,5 @@
-#introduction,#installation,#skins,#resourcepack,#ram,#optifine,#shaders {
-	height: 100%;
+div #introduction,div #installation,div #skins,div #resourcepack,div #ram,div #optifine,div #shaders {
+	height: 100%;!important
 }
 .introduction h1 {
 	text-align: center;
