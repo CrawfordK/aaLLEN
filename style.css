@@ -1,4 +1,5 @@
 div #introduction,div #installation,div #skins,div #resourcepack,div #ram,div #optifine,div #shaders {
+	min-height: 1080px;
 	height: 100%;!important
 }
 .introduction h1 {
