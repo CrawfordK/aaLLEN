@@ -1,24 +1,27 @@
+#introduction,#installation,#skins,#resourcepack,#ram,#optifine,#shaders {
+	
+}
 .introduction h1 {
 	text-align: center;
 }
 /* CSS BY PAPERLINK1 */
 #introduction {
-	background-image: url("images/BackgroundDiamondOre.jpg");
+	background-image: url("https://paperlink1.github.io/images/BackgroundDiamondOre.jpg");
 	margin: 0 auto;
 	padding: 0 auto;
 	width: 1000px;
 }
 #main-body {
-	background-image: url("images/RedstoneMainBackground.png");
+	background-image: url("https://paperlink1.github.io/images/RedstoneMainBackground.png");
 }
 #contents {
-	background-image: url("images/StoneBackground.png");
+	background-image: url("https://paperlink1.github.io/images/StoneBackground.png");
 	text-align: center;
 	list-style-position: outside;
 }
 li.pri {
 	list-style-type: circle;
-	list-style-image: url("images/DiamondBullet.png");
+	list-style-image: url("https://paperlink1.github.io/images/DiamondBullet.png");
 
 }
 p.intro-text {
@@ -41,7 +44,7 @@ p.intro-text {
 	list-style-type: none;
     margin: 0;
     padding: 0;
-	background-image: url("images/RedstoneLampNav.png");
+	background-image: url("https://paperlink1.github.io/images/RedstoneLampNav.png");
 	overflow: hidden;
 }
 li.abme {
@@ -58,7 +61,7 @@ li.abme a {
 	font-weight: bold;
 }
 li.abme a:hover {
-    background-image: url("images/RedstoneLampActive.png");
+    background-image: url("https://paperlink1.github.io/images/RedstoneLampActive.png");
 }
 .active {    
 	background-color: hsla(0, 0%, 71%, 0.6);
