@@ -1,3 +1,65 @@
 .introduction h1 {
 	text-align: center;
 }
+/* CSS BY PAPERLINK1 */
+#introduction {
+	background-image: url("images/BackgroundDiamondOre.jpg");
+	margin: 0 auto;
+	padding: 0 auto;
+	width: 1000px;
+}
+#main-body {
+	background-image: url("images/RedstoneMainBackground.png");
+}
+#contents {
+	background-image: url("images/StoneBackground.png");
+	text-align: center;
+	list-style-position: outside;
+}
+li.pri {
+	list-style-type: circle;
+	list-style-image: url("images/DiamondBullet.png");
+
+}
+p.intro-text {
+	background-color: rgba(255, 255, 255, 0.3);
+	width: 60%;
+	text-align: center;
+	color: black;
+	display: block;
+	margin: 0 auto;
+}
+.title {
+	text-align: center;
+}
+#aboutme {
+	background: radial-gradient(#51376b, #712891, #9231bc, #bcb731);
+	text-align: center;
+	
+}
+.list-aboutme {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	background-image: url("images/RedstoneLampNav.png");
+	overflow: hidden;
+}
+li.abme {
+    float: left;
+}
+
+li.abme a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	background-color: hsla(0, 0%, 71%, 0.6);
+	font-weight: bold;
+}
+li.abme a:hover {
+    background-image: url("images/RedstoneLampActive.png");
+}
+.active {    
+	background-color: hsla(0, 0%, 71%, 0.6);
+}
