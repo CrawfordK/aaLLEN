@@ -2,7 +2,7 @@ html, body {
     height: 100%;
 }
 
-.fill { 
+.flex, .fill { 
     min-height: 100%;
     height: 100%;
 }
